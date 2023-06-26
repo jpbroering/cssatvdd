@@ -1,0 +1,31 @@
+
+.ttl{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left:  100px;
+    margin-right: 100px;
+}
+.fundoVermelho{
+    background-color: red;
+}
+.bloco{
+    background-image: url(imagens/fundo.png);
+    width: 250px;
+    height: 500px;
+}
+.foto{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+body{
+    background-color: snow;
+}
+.bloco{
+    float: left;
+    margin-left: 10px;
+    border-radius: 10px;
+}
